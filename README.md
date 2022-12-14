@@ -5,6 +5,7 @@ My favorite stacks:
 
 - Golang
   - [gin-gonic/gin](https://github.com/gin-gonic/gin)
+  - [fyne](https://fyne.io/)
 - Docker / Kubernete
 - Open API
 - Terraform
