@@ -1,4 +1,5 @@
-I'm a gopher ʕ◔ϖ◔ʔ. I love [golang](https://golang.org/).
+I'm a gopher ʕ◔ϖ◔ʔ. I love [golang](https://golang.org/).  
+My profile icon is the gopher. The Go gopher was designed by [Renee French](http://reneefrench.blogspot.com/).
 
 My favorite stacks:
 
